@@ -1,7 +1,7 @@
 baseURL: https://docs.datanimbus.com
 languageCode: en-us
 title: DataNimbus Documentation
-theme: 'hugo-book'
+theme: 'ananke'
 
 params:
   BookMenuBundle: /menu
