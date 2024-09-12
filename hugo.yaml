@@ -2,3 +2,7 @@ baseURL: https://docs.datanimbus.com
 languageCode: en-us
 title: DataNimbus Documentation
 theme: 'hugo-book'
+
+params:
+  BookMenuBundle: /menu
+  BookSection: docs
