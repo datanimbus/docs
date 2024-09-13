@@ -2,7 +2,7 @@
 title: Introduction to Data Pipes
 linkTitle: Data Pipes
 date: 2024-09-12T17:31:39-05:00
-draft: true
+draft: false
 ---
 
 In the dynamic landscape of datanimbus.io (DNIO), **data pipes** emerge as the architects of **data transformation** and **integration**. Imagine them as versatile pipelines, visually crafted through a drag-and-drop interface, where each node represents a distinct action or operation in your data's journey.
