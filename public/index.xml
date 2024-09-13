@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataNimbus Documentation</title>
+    <title>DataNimbus Documentation – DataNimbus Documentation</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on DataNimbus Documentation</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/dnd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/dnd/</guid>
-      <description> DataNimbus Documentation # </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/dnio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/dnio/</guid>
-      <description>datanimbus.io # datanimbus.io (DNIO) is an Integration Platform as a Service (iPaaS) that simplifies the integration and management of data across various systems and applications. DNIO 3.0 introduces significant enhancements and new features, making it a powerful tool for data integration and automation.&#xA;Key Features # Data Services:&#xA;CRUD operations on NoSQL and SQL databases Schema-based and schema-free data models Webhooks integration for external communication User experience customization with state models and personalization Role-based access control for data security Data search and export capabilities Comprehensive API documentation Data Pipes:</description>
-    </item>
+    <lastBuildDate>Thu, 12 Sep 2024 17:31:39 -0500</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
   </channel>
 </rss>

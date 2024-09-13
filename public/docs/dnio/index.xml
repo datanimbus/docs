@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataNimbus Documentation – DataNimbus Documentation</title>
-    <link>http://localhost:1313/docs/</link>
-    <description>Recent content on DataNimbus Documentation</description>
+    <title>DataNimbus Documentation – datanimbus.io</title>
+    <link>http://localhost:1313/docs/dnio/</link>
+    <description>Recent content in datanimbus.io on DataNimbus Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2024 17:31:39 -0500</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/dnio/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -78,6 +78,38 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;DNIO is a powerful iPaaS solution that empowers organizations to efficiently integrate, manage, and secure their data. Its comprehensive features, flexibility, and scalability make it an ideal choice for businesses seeking to streamline their data processes and unlock the full potential of their data assets.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Introduction Data Services</title>
+      <link>http://localhost:1313/docs/dnio/data-services/</link>
+      <pubDate>Thu, 12 Sep 2024 17:31:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/docs/dnio/data-services/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In the realm of datanimbus.io (DNIO), &lt;strong&gt;data services&lt;/strong&gt; emerge as the cornerstone for streamlined data management and interaction. At their core, they provide a structured and intuitive interface to perform essential &lt;strong&gt;CRUD&lt;/strong&gt; (Create, Read, Update, Delete) operations on your data, residing within a variety of databases - both &lt;strong&gt;NoSQL&lt;/strong&gt; (like MongoDB, AWS DocumentDB, and CosmosDB) and &lt;strong&gt;SQL&lt;/strong&gt; (like MySQL, Oracle, and PostgreSQL).&lt;/p&gt;
+&lt;p&gt;Think of data services as adaptable bridges, seamlessly connecting your applications to diverse data stores. Whether your data adheres to a rigid schema or thrives in a schema-free environment, DNIO&amp;rsquo;s data services empower you to handle it with finesse. They extend their capabilities beyond basic CRUD, offering features like webhook integrations to trigger actions based on data events, and personalization options to tailor the user experience.&lt;/p&gt;
+&lt;p&gt;In essence, data services in DNIO serve as the backbone of your data interactions, providing a robust, flexible, and user-friendly way to manage and leverage your data assets effectively.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Pipes</title>
+      <link>http://localhost:1313/docs/dnio/data-pipes/</link>
+      <pubDate>Thu, 12 Sep 2024 17:31:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/docs/dnio/data-pipes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In the dynamic landscape of datanimbus.io (DNIO), &lt;strong&gt;data pipes&lt;/strong&gt; emerge as the architects of &lt;strong&gt;data transformation&lt;/strong&gt; and &lt;strong&gt;integration&lt;/strong&gt;. Imagine them as versatile pipelines, visually crafted through a drag-and-drop interface, where each node represents a distinct action or operation in your data&amp;rsquo;s journey.&lt;/p&gt;
+&lt;p&gt;Data pipes harness the power of a rich ecosystem of plugins, enabling seamless connections to diverse systems and facilitating tasks like data extraction, transformation, and loading. Their inherent flexibility and scalability empower you to orchestrate intricate data flows, handling even the most complex integration scenarios with grace.&lt;/p&gt;
+&lt;p&gt;In essence, data pipes transcend the boundaries of traditional data handling, offering a visual and adaptable approach to data integration and automation. They serve as the dynamic conduits that propel your data through its transformative journey, unlocking its full potential within the DNIO platform.&lt;/p&gt;
 
       </description>
     </item>
